@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/counterclass-redux/static/js/main.f402e2c8.js",
+    "index.html": "/counterclass-redux/index.html",
+    "main.f402e2c8.js.map": "/counterclass-redux/static/js/main.f402e2c8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f402e2c8.js"
+  ]
+}
