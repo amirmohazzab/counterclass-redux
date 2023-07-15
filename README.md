@@ -12,5 +12,5 @@ This project is for counting by Class component.
 
 ## Preview
 
-<a href="https://amirmohazzab.github.io/counterclass-redux"> Demo </a>
+<a target="_blank" href="https://amirmohazzab.github.io/counterclass-redux"> Demo </a>
 
